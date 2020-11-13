@@ -1,0 +1,53 @@
+{
+  "/mnt/home-hdd/Документы/Intellectual/repo" : 
+  {
+    "mtime" : 1605276188758, 
+    "ctime" : 1605276188758, 
+    "birthtime" : 1605275324642, 
+    "absolutePath" : `/mnt/home-hdd/Документы/Intellectual/repo`
+  }, 
+  "/mnt/home-hdd/Документы/Intellectual/repo/.warchive" : 
+  {
+    "mtime" : 1605276187798, 
+    "ctime" : 1605276187798, 
+    "birthtime" : 1605276187794, 
+    "absolutePath" : `/mnt/home-hdd/Документы/Intellectual/repo/.warchive`, 
+    "size" : 1344n, 
+    "hash" : `6d6fb77b853409a290b64be2704d0e8c`, 
+    "hashOfStat" : 19924947n, 
+    "nlink" : 1n
+  }, 
+  "/mnt/home-hdd/Документы/Intellectual/repo/.will.yml" : 
+  {
+    "mtime" : 1605275593506, 
+    "ctime" : 1605275593546, 
+    "birthtime" : 1605275593506, 
+    "absolutePath" : `/mnt/home-hdd/Документы/Intellectual/repo/.will.yml`, 
+    "size" : 63n, 
+    "hash" : `b11b5f772aa2982cab6f11fcd8f9945f`, 
+    "hashOfStat" : 19924946n, 
+    "nlink" : 1n
+  }, 
+  "/mnt/home-hdd/Документы/Intellectual/repo/f" : 
+  {
+    "mtime" : 1605276111217, 
+    "ctime" : 1605276111217, 
+    "birthtime" : 1605275451536, 
+    "absolutePath" : `/mnt/home-hdd/Документы/Intellectual/repo/f`, 
+    "size" : 10n, 
+    "hash" : `9d95fe55b14f138c3469b362b15ac114`, 
+    "hashOfStat" : 19924943n, 
+    "nlink" : 2n
+  }, 
+  "/mnt/home-hdd/Документы/Intellectual/repo/file.txt" : 
+  {
+    "mtime" : 1605276188758, 
+    "ctime" : 1605276188758, 
+    "birthtime" : 1605276188758, 
+    "absolutePath" : `/mnt/home-hdd/Документы/Intellectual/repo/file.txt`, 
+    "size" : 82n, 
+    "hash" : `0c9efd82e7877fc4259113b4cd2ea726`, 
+    "hashOfStat" : 19924952n, 
+    "nlink" : 1n
+  }
+}
